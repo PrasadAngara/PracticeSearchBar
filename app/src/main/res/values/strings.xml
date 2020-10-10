@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticeSearchBar</string>
+    <string-array name="Versions">
+        <item>cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwitch</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>MArshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Android Pie</item>
+    </string-array>
+</resources>
